@@ -1,4 +1,7 @@
 # AsurX By J.B
+
+⚠️ DISCLAMER: Program for educational purposes!!! ⚠️
+
 stealer password in python with discord webhook 
 
 <img width="1440" height="820" alt="AsurX" src="https://github.com/user-attachments/assets/5734351a-dd11-480a-8b44-185b73c829f6" />
